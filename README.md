@@ -1,4 +1,4 @@
-abstract - assert - 
+abstract -used to declare classes and methods that cannot be instantiated directly,                                                                                                       assert - 
 boolean
 break
 byte
